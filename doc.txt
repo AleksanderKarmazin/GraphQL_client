@@ -1,0 +1,26 @@
+npm install @apollo/client graphql
+npm i react-router-dom
+npm i moment
+
+
+semantic UI
+https://react.semantic-ui.com/
+
+npm install semantic-ui-react semantic-ui-css
+
+(index.js)
+import 'semantic-ui-css/semantic.min.css' 
+
+
+<div>
+
+    <h1>Hi world!</h1>
+    <div>
+            <h2>My first Apollo app 
+            <span role="img" aria-label="donut">
+            🚀🍔🍩🍪🌭🥓🥦
+            </span>
+            </h2>
+        </div>
+    </div>
+
