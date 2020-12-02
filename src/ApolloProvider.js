@@ -4,7 +4,7 @@ import { ApolloClient, createHttpLink, InMemoryCache, ApolloProvider } from '@ap
 import { setContext } from '@apollo/client/link/context';
 
 const httpLink = createHttpLink({
-  uri: 'http://localhost:4000/',
+  uri: 'https://serene-shelf-18020.herokuapp.com/',
 });
 
 // const authLink = setContext(()=>{
